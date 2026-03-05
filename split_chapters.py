@@ -24,11 +24,11 @@ print("Written: 00-preface.md")
 
 # Write chapters
 filenames = [
-    "01-shrinking-company.md",
-    "02-one-to-zero.md",
-    "03-technology-stack.md",
-    "04-zero-person-playbook.md",
-    "05-human-question-future.md",
+    "01-vanishing-workforce.md",
+    "02-intelligence-fallacy.md",
+    "03-anatomy-of-autonomy.md",
+    "04-great-displacement.md",
+    "05-one-to-zero.md",
 ]
 for i, (chapter, filename) in enumerate(zip(chapters, filenames)):
     with open(f"chapters/{filename}", "w") as f:

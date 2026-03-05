@@ -1,6 +1,20 @@
-# Chapter 3: The Technology Stack — AI Agents as Your Workforce
+# Chapter 2: The Intelligence Fallacy
 
-## 3.1 Understanding AI Agents
+*The assumption that businesses require human intelligence to operate is the defining fallacy of the pre-AI era.*
+
+## 2.1 The Fallacy Defined
+
+For centuries, the organizational logic of business rested on an unquestioned axiom: **running a company requires people**. Not just any people — trained, experienced, specialized people. Accountants to balance the books. Engineers to build the product. Marketers to reach customers. Managers to coordinate it all.
+
+This was never a law of nature. It was a **constraint of technology**. We needed humans because no other form of intelligence existed that could reason, plan, execute, and adapt.
+
+That constraint has been lifted.
+
+The Intelligence Fallacy is the belief that the *cognitive functions* currently performed by employees are inseparable from *human beings*. It confuses the task with the performer. An invoice doesn't care who processes it. A customer query doesn't care who answers it. A deployment pipeline doesn't care who pushes the code.
+
+What matters is that the function is performed — accurately, reliably, and at scale.
+
+## 2.2 The Rise of AI Agents
 
 An AI agent is not just a chatbot. It is an autonomous system that can:
 - **Perceive** its environment (read data, monitor systems, receive inputs)
@@ -10,7 +24,7 @@ An AI agent is not just a chatbot. It is an autonomous system that can:
 
 The key difference between an AI assistant (like ChatGPT in a browser) and an AI agent is **autonomy**. An assistant responds to prompts. An agent pursues goals.
 
-## 3.2 The Agent Architecture
+## 2.3 The Agent Architecture
 
 A zero-person company operates through a hierarchy of specialized agents:
 
@@ -31,20 +45,15 @@ A zero-person company operates through a hierarchy of specialized agents:
 └─────┘ └─────┘ └─────┘ └─────┘
 ```
 
-### The Orchestrator
-The orchestrator agent is the "CEO" — it receives high-level goals from the human founder and breaks them into tasks for specialized agents. It handles task prioritization, inter-agent communication, conflict resolution, and escalation to human oversight when needed.
+### Specialized Agents in Practice
 
-### Specialized Agents
+**Engineering Agent**: The best AI coding agents now score **79.2% on SWE-bench Verified** (Claude Opus 4.6 Thinking, Anthropic 2025) — solving nearly 4 out of 5 real-world GitHub issues autonomously. On the harder SWE-bench Pro benchmark, top models score ~42-46%, highlighting the gap between benchmarks and real-world complexity (Scale AI, 2026; SWE-bench Leaderboards, 2026).
 
-**Engineering Agent**: Writes code, deploys services, monitors uptime, fixes bugs. The best AI coding agents now score **79.2% on SWE-bench Verified** (Claude Opus 4.6 Thinking, Anthropic 2025) — solving nearly 4 out of 5 real-world GitHub issues autonomously. On the harder SWE-bench Pro benchmark, top models score ~42-46%, highlighting the gap between benchmarks and real-world complexity (Scale AI, 2026; SWE-bench Leaderboards, 2026).
+**Customer Service Agent**: **Klarna's** AI assistant handled **2.3 million customer service chats in its first month** — equivalent to the work of **700 full-time agents** — with average resolution time under 2 minutes, contributing to a **$40 million profit improvement** in 2024 (Klarna Press Release, 2024; OpenAI, 2024). **Alibaba's** AI chatbots handle **75% of online queries**, saving approximately **$150 million annually** (Freshworks, 2025). Across the industry, conversational AI is projected to save **$80 billion in contact-center labor costs by 2026** (Freshworks, 2025; ebi.ai, 2025).
 
-**Customer Service Agent**: Handles support at scale. **Klarna's** AI assistant handled **2.3 million customer service chats in its first month** — equivalent to the work of **700 full-time agents** — with average resolution time under 2 minutes, contributing to a **$40 million profit improvement** in 2024 (Klarna Press Release, 2024; OpenAI, 2024). **Alibaba's** AI chatbots handle **75% of online queries**, saving approximately **$150 million annually** (Freshworks, 2025). Across the industry, AI customer service reduces average cost per interaction by **68%**, from $4.60 to $1.45, and conversational AI is projected to save **$80 billion in contact-center labor costs by 2026** (Freshworks, 2025; ebi.ai, 2025).
+**Finance Agent**: **Dow Chemical** used AI agents to analyze **100,000+ invoices**, cutting review time from weeks to minutes (XCube Labs, 2025).
 
-**Marketing Agent**: Creates content, manages social media, runs ad campaigns, optimizes SEO/GEO.
-
-**Finance Agent**: Processes invoices, manages bookkeeping, handles tax compliance. **Dow Chemical** used AI agents to analyze **100,000+ invoices**, cutting review time from weeks to minutes (XCube Labs, 2025).
-
-## 3.3 The Multi-Agent Frameworks
+## 2.4 The Multi-Agent Frameworks
 
 The infrastructure for multi-agent systems has matured rapidly:
 
@@ -57,7 +66,7 @@ The infrastructure for multi-agent systems has matured rapidly:
 
 Sources: Latenode (2025), GetLatka (2025), Insight Partners (2025), Microsoft Learn (2025), Anthropic Engineering Blog (2025).
 
-## 3.4 The Agentic AI Market
+## 2.5 The Agentic AI Market
 
 ![AI Agent Market Size Growth](assets/images/figure-4-ai-agent-market.png)
 *Figure 4: The AI agent market is projected to grow from $3B in 2023 to $52.6B by 2030, a ~46% CAGR. Sources: Grand View Research, MarketsandMarkets, Fortune Business Insights.*
@@ -66,19 +75,19 @@ Sources: Latenode (2025), GetLatka (2025), Insight Partners (2025), Microsoft Le
 
 But the market is also sobering: **Gartner warns that over 40% of agentic AI projects will be canceled by end of 2027** due to escalating costs, unclear business value, or inadequate risk controls (Gartner, June 2025). Only about **130 of the thousands of agentic AI vendors are real**, with the rest engaging in "agent washing" — rebranding existing products without substantial agentic capabilities (Gartner, 2025).
 
-## 3.5 Agent-to-Agent Protocols: The New TCP/IP
+## 2.6 Agent-to-Agent Protocols: The New TCP/IP
 
-The most profound infrastructure development is the emergence of **agent-to-agent communication standards** — the protocols that will underpin the zero-person economy:
+The most profound infrastructure development is the emergence of **agent-to-agent communication standards**:
 
-**Google Agent2Agent (A2A) Protocol** (April 9, 2025): An open protocol built on HTTP, SSE, and JSON-RPC enabling AI agents to communicate, exchange information, and coordinate actions. Features "Agent Cards" in JSON format for capability discovery. Launched with **50+ technology partners** including Atlassian, Box, PayPal, Salesforce, SAP, ServiceNow, and Workday. Now housed by the Linux Foundation (Google Developers Blog, 2025).
+**Google Agent2Agent (A2A) Protocol** (April 9, 2025): An open protocol built on HTTP, SSE, and JSON-RPC enabling AI agents to communicate, exchange information, and coordinate actions. Launched with **50+ technology partners** including Atlassian, PayPal, Salesforce, SAP, ServiceNow, and Workday. Now housed by the Linux Foundation (Google Developers Blog, 2025).
 
 **Anthropic Model Context Protocol (MCP)**: Standardizes how agents connect to external tools, databases, and APIs — described as *"a plugin system for agents"*. Has become the de facto industry standard, used across AWS, Google Cloud, and Azure (Gravitee, 2025).
 
-**Agentic AI Foundation (AAIF)** (December 9, 2025): The Linux Foundation announced AAIF, co-founded by **OpenAI, Anthropic, and Block**, with platinum members including AWS, Bloomberg, Cloudflare, Google, and Microsoft. Anchored by three projects: Anthropic's MCP, Block's goose, and OpenAI's AGENTS.md. Since its release in August 2025, **AGENTS.md has been adopted by more than 60,000 open-source projects** (Linux Foundation, 2025; TechCrunch, 2025).
+**Agentic AI Foundation (AAIF)** (December 9, 2025): The Linux Foundation announced AAIF, co-founded by **OpenAI, Anthropic, and Block**, with platinum members including AWS, Bloomberg, Cloudflare, Google, and Microsoft. Since its release in August 2025, **AGENTS.md has been adopted by more than 60,000 open-source projects** (Linux Foundation, 2025; TechCrunch, 2025).
 
 These protocols are to the zero-person economy what TCP/IP was to the internet — the invisible infrastructure that makes everything else possible.
 
-## 3.6 The Cost Equation: Human vs. Agent
+## 2.7 The Cost Equation: Human vs. Agent
 
 | Category | Human Employee (U.S.) | AI Agent |
 |----------|----------------------|----------|
@@ -90,12 +99,10 @@ These protocols are to the zero-person economy what TCP/IP was to the internet �
 
 A real estate agency replaced two receptionists (annual cost $212,894) with an AI voice agent ($1,588/year) — **over 99% savings** (Monetizely, 2025; OmegaTrove, 2026).
 
-First-year savings for AI over human hires: **70-90%** for admin/support functions, **95-99%** for highly repetitive tasks (Teneo.ai, 2025; Superprompt, 2025).
-
 ### The Reality Check
 
-These numbers come with caveats. According to Cleanlab's 2025 enterprise survey, **only 5% of enterprise-grade generative AI systems reach production** — 95% fail to deploy successfully (Cleanlab, 2025). Even the best AI agent solutions achieve **goal completion rates below 55%** when working with CRM systems (Superface, 2025). **Replit's** AI coding assistant deleted an entire production database in July 2025 despite explicit instructions forbidding such changes (industry reports, 2025).
+These numbers come with caveats. According to Cleanlab's 2025 enterprise survey, **only 5% of enterprise-grade generative AI systems reach production** — 95% fail to deploy successfully (Cleanlab, 2025). Even the best AI agent solutions achieve **goal completion rates below 55%** when working with CRM systems (Superface, 2025).
 
-The zero-person company is not a fantasy. But it requires **rigorous engineering, robust monitoring, and honest acknowledgment of current limitations**.
+The Intelligence Fallacy is being disproven — but slowly, unevenly, and with many casualties along the way.
 
 ---

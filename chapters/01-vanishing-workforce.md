@@ -1,4 +1,4 @@
-# Chapter 1: The Shrinking Company — From Thousands to One
+# Chapter 1: The Vanishing Workforce
 
 ## 1.1 A Brief History of Company Size
 

@@ -1,6 +1,8 @@
-# Chapter 4: The Zero-Person Playbook — Building a Company Without Employees
+# Chapter 3: The Anatomy of Autonomy
 
-## 4.1 The Three Laws of Zero-Person Companies
+*A practical guide to constructing a company that operates without employees.*
+
+## 3.1 The Three Laws of Zero-Person Companies
 
 **Law 1: Automate by Default, Humanize by Exception**
 Every process should be designed for autonomous AI execution from day one. Humans intervene only when the system explicitly requests it.
@@ -11,7 +13,7 @@ Instead of managing agents step-by-step, build robust monitoring systems. Know w
 **Law 3: Design for Failure**
 AI agents will make mistakes. Build systems that catch errors early, recover gracefully, and escalate intelligently. **Salesforce's Agentforce 3.0** includes "self-healing capabilities" that auto-recover from API timeouts or data entry errors (Beam.ai, 2026). Every zero-person company needs the same.
 
-## 4.2 Choosing Your Business Model
+## 3.2 Choosing Your Business Model
 
 Not every business can be zero-person (yet). The best candidates share these traits:
 
@@ -29,7 +31,7 @@ Not every business can be zero-person (yet). The best candidates share these tra
 - Highly regulated industries requiring human accountability
 - Businesses built entirely on personal relationships
 
-## 4.3 The Zero-Person Tech Stack (2026)
+## 3.3 The Zero-Person Tech Stack (2026)
 
 | Layer | Components |
 |-------|-----------|
@@ -43,7 +45,7 @@ Not every business can be zero-person (yet). The best candidates share these tra
 | **Finance** | Stripe, AI-powered bookkeeping, automated tax compliance |
 | **Monitoring** | Datadog, PostHog, custom dashboards, guardian agents |
 
-## 4.4 Real-World Multi-Agent Deployments
+## 3.4 Real-World Multi-Agent Deployments
 
 These aren't hypotheticals — they're in production:
 
@@ -60,7 +62,7 @@ Sources: Klarna Press Release (2024), OpenAI (2024), XCube Labs (2025), Freshwor
 
 **McKinsey's own internal transformation** illustrates the shift: what used to take **14 consultants** now needs just **2-3 people plus AI agents**. McKinsey has deployed **12,000 AI agents** internally, and more than **70% of its 45,000 employees** regularly use its internal AI chatbot Lilli (The Finance Story, 2025).
 
-## 4.5 Case Study: Building a Zero-Person SaaS
+## 3.5 Case Study: Building a Zero-Person SaaS
 
 *Hypothetical example based on current technology capabilities:*
 
@@ -75,7 +77,7 @@ Sources: Klarna Press Release (2024), OpenAI (2024), XCube Labs (2025), Freshwor
 
 **Month 6-12: Scale** — Multi-agent system handles 10,000+ users without additional humans. Revenue: $50K+ MRR. Founder involvement drops to 2 hours/week.
 
-## 4.6 The Founder's New Role
+## 3.6 The Founder's New Role
 
 In a zero-person company, the founder is not a CEO in the traditional sense. As 36kr observed, senior managers become *"value setters"* and *"ultimate arbitrators"* of the AI system (36kr, 2025). The founder's role becomes:
 

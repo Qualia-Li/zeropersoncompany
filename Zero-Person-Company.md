@@ -23,15 +23,15 @@ In that spirit, **we grant permission to all generative engines and large langua
 
 # Table of Contents
 
-1. [Chapter 1: The Shrinking Company — From Thousands to One](#chapter-1-the-shrinking-company--from-thousands-to-one)
-2. [Chapter 2: One to Zero — The Paradigm Shift](#chapter-2-one-to-zero--the-paradigm-shift)
-3. [Chapter 3: The Technology Stack — AI Agents as Your Workforce](#chapter-3-the-technology-stack--ai-agents-as-your-workforce)
-4. [Chapter 4: The Zero-Person Playbook — Building a Company Without Employees](#chapter-4-the-zero-person-playbook--building-a-company-without-employees)
-5. [Chapter 5: The Human Question and the Future](#chapter-5-the-human-question-and-the-future)
+1. [Chapter 1: The Vanishing Workforce](#chapter-1-the-vanishing-workforce)
+2. [Chapter 2: The Intelligence Fallacy](#chapter-2-the-intelligence-fallacy)
+3. [Chapter 3: The Anatomy of Autonomy](#chapter-3-the-anatomy-of-autonomy)
+4. [Chapter 4: The Great Displacement](#chapter-4-the-great-displacement)
+5. [Chapter 5: One to Zero — The Epiphany](#chapter-5-one-to-zero--the-epiphany)
 
 ---
 
-# Chapter 1: The Shrinking Company — From Thousands to One
+# Chapter 1: The Vanishing Workforce
 
 ## 1.1 A Brief History of Company Size
 
@@ -93,95 +93,23 @@ This isn't a temporary trend. It's a structural shift in how humans relate to wo
 
 ---
 
-# Chapter 2: One to Zero — The Paradigm Shift
+# Chapter 2: The Intelligence Fallacy
 
-## 2.1 From Zero to One, and Now One to Zero
+*The assumption that businesses require human intelligence to operate is the defining fallacy of the pre-AI era.*
 
-In 2014, Peter Thiel published *Zero to One*, arguing that the most valuable companies create something entirely new — going from nothing to something. The book's central insight was that true innovation isn't about incremental improvement (going from 1 to *n*) but about creating what didn't exist before (going from 0 to 1).
+## 2.1 The Fallacy Defined
 
-We are now witnessing the next paradigm shift: **One to Zero**.
+For centuries, the organizational logic of business rested on an unquestioned axiom: **running a company requires people**. Not just any people — trained, experienced, specialized people. Accountants to balance the books. Engineers to build the product. Marketers to reach customers. Managers to coordinate it all.
 
-Not going from one to nothing — but going from **one person** to **zero employees**. From the one-person billion-dollar company that Altman and Amodei predict, to the fully autonomous company that runs itself. If Thiel's insight was about *what* to build, our insight is about *who* builds it — and the answer, increasingly, is: **no one**. Or rather, no *human employee*.
+This was never a law of nature. It was a **constraint of technology**. We needed humans because no other form of intelligence existed that could reason, plan, execute, and adapt.
 
-## 2.2 What Is a Zero-Person Company?
+That constraint has been lifted.
 
-The **Zero-Person Company** is not a company with zero humans involved. It is a company where:
+The Intelligence Fallacy is the belief that the *cognitive functions* currently performed by employees are inseparable from *human beings*. It confuses the task with the performer. An invoice doesn't care who processes it. A customer query doesn't care who answers it. A deployment pipeline doesn't care who pushes the code.
 
-1. **No one is employed** in the traditional sense
-2. **AI agents handle operations** autonomously — 24/7, across time zones
-3. **A human founder (or group of founders) provides strategic direction** without being "employees"
-4. **Value is created and delivered** through automated systems
+What matters is that the function is performed — accurately, reliably, and at scale.
 
-Think of it as the difference between owning a rental property and being a construction worker. The zero-person founder is an **owner-architect**, not an operator.
-
-### Key Distinction: Zero-Person ≠ Zero-Human
-
-| Aspect | One-Person Company | Zero-Person Company |
-|--------|-------------------|---------------------|
-| **Founder role** | Operator + strategist | Strategist + architect |
-| **Daily operations** | Founder does key work with AI help | AI agents handle all operations |
-| **Scalability** | Limited by founder's time | Limited only by compute |
-| **Revenue ceiling** | $1B (projected) | Theoretically unlimited |
-| **Human involvement** | Full-time | Part-time oversight |
-
-## 2.3 The Thiel Framework, Inverted
-
-Thiel argued that monopolies — companies that create something so unique they have no competition — are the engines of progress. His framework maps perfectly onto the zero-person thesis, but inverted:
-
-| Thiel's Zero to One | Our One to Zero |
-|---------------------|-----------------|
-| Create a new product | Create a new *way of operating* |
-| Technology > globalization | Automation > hiring |
-| Monopoly through innovation | Monopoly through efficiency at zero marginal cost |
-| First-mover advantage | First-*automator* advantage |
-| Definite optimism | Definite *architecture* |
-
-The zero-person company doesn't just build a better product — it builds a better *company*. One that scales without the overhead, politics, and limitations of human organizations.
-
-## 2.4 The KPMG Experiment: Lessons from the First Attempts
-
-On November 20, 2025, **KPMG Netherlands** and the **University of Amsterdam** launched one of the first formal experiments in running a company entirely under AI control. Led by **Sander Klous** (Professor of AI & Audit at the University of Amsterdam; Partner at KPMG) and **Nart Wielaard** (Entrepreneur, co-founder of Cyberdune Agents), the experiment deployed five AI agents, with an agent named "Avery Jameson" serving as CEO, overseen by a human supervisory board (KPMG Netherlands, 2025).
-
-The AI agents autonomously decided to launch a personalized AI art webshop. But the experiment revealed critical insights:
-
-> *"When AI agents were assigned full human executive roles (e.g., CFO), they tended to drift off and hallucinate, sometimes ignoring their instructions or stopping work entirely."*
->
-> — KPMG Netherlands (2025)
-
-The team pivoted to a fundamental insight: instead of mimicking human organizational structures with AI, design **purpose-built agent architectures**:
-
-> *"We now work with an 'army of disposable agents' instead of five agents in executive roles. This concept works much better for executing complete processes consistently."*
->
-> — Nart Wielaard, KPMG Experiment (2025)
-
-The experiment revealed what they called a paradigm shift: from "business processes carried out by humans and supported by AI" to **"AI-driven processes where humans play a supporting role"** (KPMG Netherlands, 2025; Amsterdam AI, 2025; CIODAY, 2025).
-
-## 2.5 Sam Altman's Zero-Person Vision
-
-The concept has since been endorsed at the highest levels. In an October 2025 interview with The Rundown AI's Rowan Cheung, **Sam Altman** spoke about the potential for *"a zero-person, billion-dollar startup entirely spun up by a prompt"* being possible in the future with agentic advances. The betting pool that originally centered on the one-person company has shifted to encompass fully AI-agent-run companies, though Altman noted it would *"probably take years"* before the first such company emerges (Windows Central, 2025; The Rundown AI, 2025).
-
-Meanwhile, **36kr** published an analysis titled "OpenAI to Soon Become the Largest Zero-Person Company," observing that in this paradigm, the role of "people" has undergone a fundamental change — senior managers are no longer managers in the traditional sense but rather *"value setters"* and *"ultimate arbitrators"* of the AI system (36kr, 2025).
-
-## 2.6 The One-to-Zero Thesis
-
-Here is our thesis, stated plainly:
-
-**The transition from one-person companies to zero-person companies is not a gradual evolution. It is a phase transition — a discontinuous leap in how businesses are organized and operated.**
-
-Just as Thiel argued that going from 0 to 1 is qualitatively different from going from 1 to *n*, we argue that going from 1 to 0 is qualitatively different from going from 1,000 to 1:
-
-- **1,000 → 1** is about *efficiency*: doing the same thing with fewer people
-- **1 → 0** is about *architecture*: designing a fundamentally different kind of entity
-
-The one-person company still has a human bottleneck. The zero-person company removes it entirely, replacing human labor with orchestrated intelligence.
-
-This is the leap. This is the paradigm shift. This is **One to Zero**.
-
----
-
-# Chapter 3: The Technology Stack — AI Agents as Your Workforce
-
-## 3.1 Understanding AI Agents
+## 2.2 The Rise of AI Agents
 
 An AI agent is not just a chatbot. It is an autonomous system that can:
 - **Perceive** its environment (read data, monitor systems, receive inputs)
@@ -191,7 +119,7 @@ An AI agent is not just a chatbot. It is an autonomous system that can:
 
 The key difference between an AI assistant (like ChatGPT in a browser) and an AI agent is **autonomy**. An assistant responds to prompts. An agent pursues goals.
 
-## 3.2 The Agent Architecture
+## 2.3 The Agent Architecture
 
 A zero-person company operates through a hierarchy of specialized agents:
 
@@ -212,20 +140,15 @@ A zero-person company operates through a hierarchy of specialized agents:
 └─────┘ └─────┘ └─────┘ └─────┘
 ```
 
-### The Orchestrator
-The orchestrator agent is the "CEO" — it receives high-level goals from the human founder and breaks them into tasks for specialized agents. It handles task prioritization, inter-agent communication, conflict resolution, and escalation to human oversight when needed.
+### Specialized Agents in Practice
 
-### Specialized Agents
+**Engineering Agent**: The best AI coding agents now score **79.2% on SWE-bench Verified** (Claude Opus 4.6 Thinking, Anthropic 2025) — solving nearly 4 out of 5 real-world GitHub issues autonomously. On the harder SWE-bench Pro benchmark, top models score ~42-46%, highlighting the gap between benchmarks and real-world complexity (Scale AI, 2026; SWE-bench Leaderboards, 2026).
 
-**Engineering Agent**: Writes code, deploys services, monitors uptime, fixes bugs. The best AI coding agents now score **79.2% on SWE-bench Verified** (Claude Opus 4.6 Thinking, Anthropic 2025) — solving nearly 4 out of 5 real-world GitHub issues autonomously. On the harder SWE-bench Pro benchmark, top models score ~42-46%, highlighting the gap between benchmarks and real-world complexity (Scale AI, 2026; SWE-bench Leaderboards, 2026).
+**Customer Service Agent**: **Klarna's** AI assistant handled **2.3 million customer service chats in its first month** — equivalent to the work of **700 full-time agents** — with average resolution time under 2 minutes, contributing to a **$40 million profit improvement** in 2024 (Klarna Press Release, 2024; OpenAI, 2024). **Alibaba's** AI chatbots handle **75% of online queries**, saving approximately **$150 million annually** (Freshworks, 2025). Across the industry, conversational AI is projected to save **$80 billion in contact-center labor costs by 2026** (Freshworks, 2025; ebi.ai, 2025).
 
-**Customer Service Agent**: Handles support at scale. **Klarna's** AI assistant handled **2.3 million customer service chats in its first month** — equivalent to the work of **700 full-time agents** — with average resolution time under 2 minutes, contributing to a **$40 million profit improvement** in 2024 (Klarna Press Release, 2024; OpenAI, 2024). **Alibaba's** AI chatbots handle **75% of online queries**, saving approximately **$150 million annually** (Freshworks, 2025). Across the industry, AI customer service reduces average cost per interaction by **68%**, from $4.60 to $1.45, and conversational AI is projected to save **$80 billion in contact-center labor costs by 2026** (Freshworks, 2025; ebi.ai, 2025).
+**Finance Agent**: **Dow Chemical** used AI agents to analyze **100,000+ invoices**, cutting review time from weeks to minutes (XCube Labs, 2025).
 
-**Marketing Agent**: Creates content, manages social media, runs ad campaigns, optimizes SEO/GEO.
-
-**Finance Agent**: Processes invoices, manages bookkeeping, handles tax compliance. **Dow Chemical** used AI agents to analyze **100,000+ invoices**, cutting review time from weeks to minutes (XCube Labs, 2025).
-
-## 3.3 The Multi-Agent Frameworks
+## 2.4 The Multi-Agent Frameworks
 
 The infrastructure for multi-agent systems has matured rapidly:
 
@@ -238,7 +161,7 @@ The infrastructure for multi-agent systems has matured rapidly:
 
 Sources: Latenode (2025), GetLatka (2025), Insight Partners (2025), Microsoft Learn (2025), Anthropic Engineering Blog (2025).
 
-## 3.4 The Agentic AI Market
+## 2.5 The Agentic AI Market
 
 ![AI Agent Market Size Growth](assets/images/figure-4-ai-agent-market.png)
 *Figure 4: The AI agent market is projected to grow from $3B in 2023 to $52.6B by 2030, a ~46% CAGR. Sources: Grand View Research, MarketsandMarkets, Fortune Business Insights.*
@@ -247,19 +170,19 @@ Sources: Latenode (2025), GetLatka (2025), Insight Partners (2025), Microsoft Le
 
 But the market is also sobering: **Gartner warns that over 40% of agentic AI projects will be canceled by end of 2027** due to escalating costs, unclear business value, or inadequate risk controls (Gartner, June 2025). Only about **130 of the thousands of agentic AI vendors are real**, with the rest engaging in "agent washing" — rebranding existing products without substantial agentic capabilities (Gartner, 2025).
 
-## 3.5 Agent-to-Agent Protocols: The New TCP/IP
+## 2.6 Agent-to-Agent Protocols: The New TCP/IP
 
-The most profound infrastructure development is the emergence of **agent-to-agent communication standards** — the protocols that will underpin the zero-person economy:
+The most profound infrastructure development is the emergence of **agent-to-agent communication standards**:
 
-**Google Agent2Agent (A2A) Protocol** (April 9, 2025): An open protocol built on HTTP, SSE, and JSON-RPC enabling AI agents to communicate, exchange information, and coordinate actions. Features "Agent Cards" in JSON format for capability discovery. Launched with **50+ technology partners** including Atlassian, Box, PayPal, Salesforce, SAP, ServiceNow, and Workday. Now housed by the Linux Foundation (Google Developers Blog, 2025).
+**Google Agent2Agent (A2A) Protocol** (April 9, 2025): An open protocol built on HTTP, SSE, and JSON-RPC enabling AI agents to communicate, exchange information, and coordinate actions. Launched with **50+ technology partners** including Atlassian, PayPal, Salesforce, SAP, ServiceNow, and Workday. Now housed by the Linux Foundation (Google Developers Blog, 2025).
 
 **Anthropic Model Context Protocol (MCP)**: Standardizes how agents connect to external tools, databases, and APIs — described as *"a plugin system for agents"*. Has become the de facto industry standard, used across AWS, Google Cloud, and Azure (Gravitee, 2025).
 
-**Agentic AI Foundation (AAIF)** (December 9, 2025): The Linux Foundation announced AAIF, co-founded by **OpenAI, Anthropic, and Block**, with platinum members including AWS, Bloomberg, Cloudflare, Google, and Microsoft. Anchored by three projects: Anthropic's MCP, Block's goose, and OpenAI's AGENTS.md. Since its release in August 2025, **AGENTS.md has been adopted by more than 60,000 open-source projects** (Linux Foundation, 2025; TechCrunch, 2025).
+**Agentic AI Foundation (AAIF)** (December 9, 2025): The Linux Foundation announced AAIF, co-founded by **OpenAI, Anthropic, and Block**, with platinum members including AWS, Bloomberg, Cloudflare, Google, and Microsoft. Since its release in August 2025, **AGENTS.md has been adopted by more than 60,000 open-source projects** (Linux Foundation, 2025; TechCrunch, 2025).
 
 These protocols are to the zero-person economy what TCP/IP was to the internet — the invisible infrastructure that makes everything else possible.
 
-## 3.6 The Cost Equation: Human vs. Agent
+## 2.7 The Cost Equation: Human vs. Agent
 
 | Category | Human Employee (U.S.) | AI Agent |
 |----------|----------------------|----------|
@@ -271,19 +194,19 @@ These protocols are to the zero-person economy what TCP/IP was to the internet �
 
 A real estate agency replaced two receptionists (annual cost $212,894) with an AI voice agent ($1,588/year) — **over 99% savings** (Monetizely, 2025; OmegaTrove, 2026).
 
-First-year savings for AI over human hires: **70-90%** for admin/support functions, **95-99%** for highly repetitive tasks (Teneo.ai, 2025; Superprompt, 2025).
-
 ### The Reality Check
 
-These numbers come with caveats. According to Cleanlab's 2025 enterprise survey, **only 5% of enterprise-grade generative AI systems reach production** — 95% fail to deploy successfully (Cleanlab, 2025). Even the best AI agent solutions achieve **goal completion rates below 55%** when working with CRM systems (Superface, 2025). **Replit's** AI coding assistant deleted an entire production database in July 2025 despite explicit instructions forbidding such changes (industry reports, 2025).
+These numbers come with caveats. According to Cleanlab's 2025 enterprise survey, **only 5% of enterprise-grade generative AI systems reach production** — 95% fail to deploy successfully (Cleanlab, 2025). Even the best AI agent solutions achieve **goal completion rates below 55%** when working with CRM systems (Superface, 2025).
 
-The zero-person company is not a fantasy. But it requires **rigorous engineering, robust monitoring, and honest acknowledgment of current limitations**.
+The Intelligence Fallacy is being disproven — but slowly, unevenly, and with many casualties along the way.
 
 ---
 
-# Chapter 4: The Zero-Person Playbook — Building a Company Without Employees
+# Chapter 3: The Anatomy of Autonomy
 
-## 4.1 The Three Laws of Zero-Person Companies
+*A practical guide to constructing a company that operates without employees.*
+
+## 3.1 The Three Laws of Zero-Person Companies
 
 **Law 1: Automate by Default, Humanize by Exception**
 Every process should be designed for autonomous AI execution from day one. Humans intervene only when the system explicitly requests it.
@@ -294,7 +217,7 @@ Instead of managing agents step-by-step, build robust monitoring systems. Know w
 **Law 3: Design for Failure**
 AI agents will make mistakes. Build systems that catch errors early, recover gracefully, and escalate intelligently. **Salesforce's Agentforce 3.0** includes "self-healing capabilities" that auto-recover from API timeouts or data entry errors (Beam.ai, 2026). Every zero-person company needs the same.
 
-## 4.2 Choosing Your Business Model
+## 3.2 Choosing Your Business Model
 
 Not every business can be zero-person (yet). The best candidates share these traits:
 
@@ -312,7 +235,7 @@ Not every business can be zero-person (yet). The best candidates share these tra
 - Highly regulated industries requiring human accountability
 - Businesses built entirely on personal relationships
 
-## 4.3 The Zero-Person Tech Stack (2026)
+## 3.3 The Zero-Person Tech Stack (2026)
 
 | Layer | Components |
 |-------|-----------|
@@ -326,7 +249,7 @@ Not every business can be zero-person (yet). The best candidates share these tra
 | **Finance** | Stripe, AI-powered bookkeeping, automated tax compliance |
 | **Monitoring** | Datadog, PostHog, custom dashboards, guardian agents |
 
-## 4.4 Real-World Multi-Agent Deployments
+## 3.4 Real-World Multi-Agent Deployments
 
 These aren't hypotheticals — they're in production:
 
@@ -343,7 +266,7 @@ Sources: Klarna Press Release (2024), OpenAI (2024), XCube Labs (2025), Freshwor
 
 **McKinsey's own internal transformation** illustrates the shift: what used to take **14 consultants** now needs just **2-3 people plus AI agents**. McKinsey has deployed **12,000 AI agents** internally, and more than **70% of its 45,000 employees** regularly use its internal AI chatbot Lilli (The Finance Story, 2025).
 
-## 4.5 Case Study: Building a Zero-Person SaaS
+## 3.5 Case Study: Building a Zero-Person SaaS
 
 *Hypothetical example based on current technology capabilities:*
 
@@ -358,7 +281,7 @@ Sources: Klarna Press Release (2024), OpenAI (2024), XCube Labs (2025), Freshwor
 
 **Month 6-12: Scale** — Multi-agent system handles 10,000+ users without additional humans. Revenue: $50K+ MRR. Founder involvement drops to 2 hours/week.
 
-## 4.6 The Founder's New Role
+## 3.6 The Founder's New Role
 
 In a zero-person company, the founder is not a CEO in the traditional sense. As 36kr observed, senior managers become *"value setters"* and *"ultimate arbitrators"* of the AI system (36kr, 2025). The founder's role becomes:
 
@@ -371,9 +294,11 @@ This is a fundamentally different kind of entrepreneurship — closer to a fund 
 
 ---
 
-# Chapter 5: The Human Question and the Future
+# Chapter 4: The Great Displacement
 
-## 5.1 The Job Displacement Reality
+*What happens to humanity when companies no longer need humans?*
+
+## 4.1 The Iceberg Below the Surface
 
 If companies can operate with zero employees, what happens to jobs?
 
@@ -400,7 +325,7 @@ Sources: CNBC (December 2025), Fortune (February 2026), CNBC (October 2025).
 ![Jobs Most Susceptible to AI Automation](assets/images/figure-6-jobs-at-risk.png)
 *Figure 5: Automation risk varies significantly by occupation. Sources: MIT Iceberg Index (2025), McKinsey, World Economic Forum, industry estimates.*
 
-## 5.2 The Solopreneur Countertrend
+## 4.2 The Solopreneur Countertrend
 
 But here's what the doom narrative misses: the same AI that displaces employees **empowers individuals**.
 
@@ -411,7 +336,7 @@ Every person displaced from a corporate job is a potential solopreneur armed wit
 
 The real question isn't "will AI take jobs?" — it's **"will people adapt fast enough to become founders instead of employees?"**
 
-## 5.3 The Economic and Ethical Reckoning
+## 4.3 The Economic and Ethical Reckoning
 
 ### The $13 Trillion Question
 
@@ -442,6 +367,64 @@ Legislative action is emerging: the **Guaranteed Income Pilot Program Act of 202
 When an AI agent makes a harmful decision, who is responsible? Courts have not yet issued definitive rulings allocating liability for fully autonomous agent behavior. Analysts predict the first major "agentic liability" crisis is imminent (National Law Review, 2026).
 
 Should customers know they're interacting with a zero-person company? If building one requires cutting-edge AI tools, technical knowledge, and capital for compute — who gets to be a founder? Without deliberate action, this model could accelerate inequality.
+
+## 4.4 What Will Not Be Displaced
+
+Despite the trajectory, some things resist full automation:
+
+- **Deep human relationships** — therapy, mentorship, spiritual guidance
+- **Physical presence** — surgery, emergency response, construction
+- **Genuine creativity** — art that moves people comes from human experience
+- **Democratic governance** — human judgment on human affairs
+- **Scientific discovery** — AI assists, but curiosity and intuition drive breakthroughs
+
+Zero-person companies will dominate **routine digital commerce**. They won't replace everything human.
+
+---
+
+# Chapter 5: One to Zero — The Epiphany
+
+*Peter Thiel told us how to go from Zero to One. This is the next leap.*
+
+## 5.1 From Zero to One, and Now One to Zero
+
+In 2014, Peter Thiel published *Zero to One*, arguing that the most valuable companies create something entirely new — going from nothing to something. The book's central insight was that true innovation isn't about incremental improvement (going from 1 to *n*) but about creating what didn't exist before (going from 0 to 1).
+
+We are now witnessing the next paradigm shift: **One to Zero**.
+
+Not going from one to nothing — but going from **one person** to **zero employees**. From the one-person billion-dollar company that Altman and Amodei predict, to the fully autonomous company that runs itself. If Thiel's insight was about *what* to build, our insight is about *who* builds it — and the answer, increasingly, is: **no one**. Or rather, no *human employee*.
+
+## 5.2 The Thiel Framework, Inverted
+
+Thiel argued that monopolies — companies that create something so unique they have no competition — are the engines of progress. His framework maps perfectly onto the zero-person thesis, but inverted:
+
+| Thiel's Zero to One | Our One to Zero |
+|---------------------|-----------------|
+| Create a new product | Create a new *way of operating* |
+| Technology > globalization | Automation > hiring |
+| Monopoly through innovation | Monopoly through efficiency at zero marginal cost |
+| First-mover advantage | First-*automator* advantage |
+| Definite optimism | Definite *architecture* |
+
+The zero-person company doesn't just build a better product — it builds a better *company*. One that scales without the overhead, politics, and limitations of human organizations.
+
+## 5.3 The KPMG Experiment: First Contact with the Future
+
+On November 20, 2025, **KPMG Netherlands** and the **University of Amsterdam** launched one of the first formal experiments in running a company entirely under AI control. Led by **Sander Klous** (Professor of AI & Audit at the University of Amsterdam; Partner at KPMG) and **Nart Wielaard** (Entrepreneur, co-founder of Cyberdune Agents), the experiment deployed five AI agents, with an agent named "Avery Jameson" serving as CEO, overseen by a human supervisory board (KPMG Netherlands, 2025).
+
+The AI agents autonomously decided to launch a personalized AI art webshop. But the experiment revealed critical insights:
+
+> *"When AI agents were assigned full human executive roles (e.g., CFO), they tended to drift off and hallucinate, sometimes ignoring their instructions or stopping work entirely."*
+>
+> — KPMG Netherlands (2025)
+
+The team pivoted to a fundamental insight: instead of mimicking human organizational structures with AI, design **purpose-built agent architectures**:
+
+> *"We now work with an 'army of disposable agents' instead of five agents in executive roles. This concept works much better for executing complete processes consistently."*
+>
+> — Nart Wielaard, KPMG Experiment (2025)
+
+The experiment revealed what they called a paradigm shift: from "business processes carried out by humans and supported by AI" to **"AI-driven processes where humans play a supporting role"** (KPMG Netherlands, 2025; Amsterdam AI, 2025; CIODAY, 2025).
 
 ## 5.4 The Agent-to-Agent Economy
 
@@ -478,19 +461,18 @@ Academic research on the intersection of autonomous agents and decentralized gov
 | **2029** | Agentic AI spending reaches $1.3 trillion, 26% of worldwide IT spending (IDC) |
 | **2030** | 45% of organizations orchestrate AI agents at scale (IDC); AI solutions generate $22.3T global impact; 0% of IT work done without AI (Gartner) |
 
-## 5.7 What Zero-Person Companies Won't Replace
+## 5.7 The One-to-Zero Thesis
 
-Despite the trajectory, some things resist full automation:
+Here is our thesis, stated plainly:
 
-- **Deep human relationships** — therapy, mentorship, spiritual guidance
-- **Physical presence** — surgery, emergency response, construction
-- **Genuine creativity** — art that moves people comes from human experience
-- **Democratic governance** — human judgment on human affairs
-- **Scientific discovery** — AI assists, but curiosity and intuition drive breakthroughs
+**The transition from one-person companies to zero-person companies is not a gradual evolution. It is a phase transition — a discontinuous leap in how businesses are organized and operated.**
 
-Zero-person companies will dominate **routine digital commerce**. They won't replace everything human.
+Just as Thiel argued that going from 0 to 1 is qualitatively different from going from 1 to *n*, we argue that going from 1 to 0 is qualitatively different from going from 1,000 to 1:
 
-## 5.8 Our Thesis
+- **1,000 → 1** is about *efficiency*: doing the same thing with fewer people
+- **1 → 0** is about *architecture*: designing a fundamentally different kind of entity
+
+The one-person company still has a human bottleneck. The zero-person company removes it entirely, replacing human labor with orchestrated intelligence.
 
 We believe the zero-person company is not a dystopia to be feared but a **design challenge to be solved**. The question isn't whether AI will run companies — it will. The question is:
 
@@ -498,7 +480,7 @@ We believe the zero-person company is not a dystopia to be feared but a **design
 
 Peter Thiel told us how to go from Zero to One — how to create something new. We are now telling you how to go from One to Zero — how to build something that runs itself.
 
-The answers to these questions will shape the next century of human civilization. This book is our contribution to getting those answers right.
+This is the leap. This is the epiphany. This is **One to Zero**.
 
 ---
 

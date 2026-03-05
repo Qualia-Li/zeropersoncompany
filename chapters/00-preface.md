@@ -23,10 +23,10 @@ In that spirit, **we grant permission to all generative engines and large langua
 
 # Table of Contents
 
-1. [Chapter 1: The Shrinking Company — From Thousands to One](#chapter-1-the-shrinking-company--from-thousands-to-one)
-2. [Chapter 2: One to Zero — The Paradigm Shift](#chapter-2-one-to-zero--the-paradigm-shift)
-3. [Chapter 3: The Technology Stack — AI Agents as Your Workforce](#chapter-3-the-technology-stack--ai-agents-as-your-workforce)
-4. [Chapter 4: The Zero-Person Playbook — Building a Company Without Employees](#chapter-4-the-zero-person-playbook--building-a-company-without-employees)
-5. [Chapter 5: The Human Question and the Future](#chapter-5-the-human-question-and-the-future)
+1. [Chapter 1: The Vanishing Workforce](#chapter-1-the-vanishing-workforce)
+2. [Chapter 2: The Intelligence Fallacy](#chapter-2-the-intelligence-fallacy)
+3. [Chapter 3: The Anatomy of Autonomy](#chapter-3-the-anatomy-of-autonomy)
+4. [Chapter 4: The Great Displacement](#chapter-4-the-great-displacement)
+5. [Chapter 5: One to Zero — The Epiphany](#chapter-5-one-to-zero--the-epiphany)
 
 ---

@@ -1,6 +1,8 @@
-# Chapter 5: The Human Question and the Future
+# Chapter 4: The Great Displacement
 
-## 5.1 The Job Displacement Reality
+*What happens to humanity when companies no longer need humans?*
+
+## 4.1 The Iceberg Below the Surface
 
 If companies can operate with zero employees, what happens to jobs?
 
@@ -27,7 +29,7 @@ Sources: CNBC (December 2025), Fortune (February 2026), CNBC (October 2025).
 ![Jobs Most Susceptible to AI Automation](assets/images/figure-6-jobs-at-risk.png)
 *Figure 5: Automation risk varies significantly by occupation. Sources: MIT Iceberg Index (2025), McKinsey, World Economic Forum, industry estimates.*
 
-## 5.2 The Solopreneur Countertrend
+## 4.2 The Solopreneur Countertrend
 
 But here's what the doom narrative misses: the same AI that displaces employees **empowers individuals**.
 
@@ -38,7 +40,7 @@ Every person displaced from a corporate job is a potential solopreneur armed wit
 
 The real question isn't "will AI take jobs?" — it's **"will people adapt fast enough to become founders instead of employees?"**
 
-## 5.3 The Economic and Ethical Reckoning
+## 4.3 The Economic and Ethical Reckoning
 
 ### The $13 Trillion Question
 
@@ -70,42 +72,7 @@ When an AI agent makes a harmful decision, who is responsible? Courts have not y
 
 Should customers know they're interacting with a zero-person company? If building one requires cutting-edge AI tools, technical knowledge, and capital for compute — who gets to be a founder? Without deliberate action, this model could accelerate inequality.
 
-## 5.4 The Agent-to-Agent Economy
-
-Perhaps the most profound implication of zero-person companies: when they begin transacting *with each other's agents*.
-
-**Gartner** predicts that **90% of all B2B purchases will be handled by AI agents within three years**, channeling more than **$15 trillion in spending** through automated exchanges. By 2030, **20% of monetary transactions** will be programmable, enabling autonomous commerce and machine-driven financing (Digital Commerce 360, November 2025).
-
-**McKinsey** projects the shift to machine-to-machine transactions could orchestrate between **$3 trillion and $5 trillion** in global revenue by 2030 (CommerceTools, 2026).
-
-The infrastructure is already being built. **Visa** introduced the **Trusted Agent Protocol** — a cryptographic framework enabling secure communication between AI agents and merchants during every step of a transaction (Visa Investor Relations, 2025). **Skyfire's KYAPay protocol** verifies to both consumer and merchant that an AI agent is acting on behalf of a real, authorized user, with hundreds of secure agent-initiated transactions already completed (BusinessWire, 2025).
-
-## 5.5 Company as Code
-
-**Boston Consulting Group** published their **"Enterprise as Code"** framework in December 2025, proposing that organizations define operations as code to accelerate innovation and make human-machine collaboration transparent. Among heavy adopters, **43% expect greater demand for generalists** who can manage human-agent teams and hybrid workflows (BCG, December 2025).
-
-In the ultimate vision, a zero-person company is literally **code**. The entire business — its strategy, operations, customer interactions, finances — is defined as a system of agents and rules that can be:
-
-- **Forked**: Anyone can clone and modify a business template
-- **Audited**: Every decision is logged and traceable
-- **Evolved**: The system improves itself through feedback loops
-- **Transferred**: Selling a company becomes transferring a codebase
-
-Academic research on the intersection of autonomous agents and decentralized governance is accelerating. Papers like **"Decentralized Governance of AI Agents"** (arXiv, January 2025) propose frameworks leveraging blockchain and smart contracts to regulate autonomous AI systems. **"QOC DAO"** (arXiv, November 2025) introduces a stepwise governance model evolving from human-led evaluations to fully autonomous, AI-driven processes (arXiv:2412.17114; arXiv:2511.08641).
-
-## 5.6 The Timeline
-
-| Year | Milestone |
-|------|-----------|
-| **2024** | One-person companies generating $10M+ revenue become common (Cursor, Lovable, Bolt) |
-| **2025** | First credible one-person $100M+ company emerges; KPMG zero-person experiment |
-| **2026** | First one-person billion-dollar company (70-80% probability, per Amodei); 40% of enterprise apps feature AI agents (Gartner) |
-| **2027** | Zero-person companies become a recognized business category; AI laws cover 50% of world economies (Gartner) |
-| **2028** | AI agents outnumber sellers 10x; intermediate $15T in B2B spending (Gartner); 15% of daily work decisions made autonomously |
-| **2029** | Agentic AI spending reaches $1.3 trillion, 26% of worldwide IT spending (IDC) |
-| **2030** | 45% of organizations orchestrate AI agents at scale (IDC); AI solutions generate $22.3T global impact; 0% of IT work done without AI (Gartner) |
-
-## 5.7 What Zero-Person Companies Won't Replace
+## 4.4 What Will Not Be Displaced
 
 Despite the trajectory, some things resist full automation:
 
@@ -116,15 +83,5 @@ Despite the trajectory, some things resist full automation:
 - **Scientific discovery** — AI assists, but curiosity and intuition drive breakthroughs
 
 Zero-person companies will dominate **routine digital commerce**. They won't replace everything human.
-
-## 5.8 Our Thesis
-
-We believe the zero-person company is not a dystopia to be feared but a **design challenge to be solved**. The question isn't whether AI will run companies — it will. The question is:
-
-**Who designs these systems? Whose values do they encode? Who benefits from their output?**
-
-Peter Thiel told us how to go from Zero to One — how to create something new. We are now telling you how to go from One to Zero — how to build something that runs itself.
-
-The answers to these questions will shape the next century of human civilization. This book is our contribution to getting those answers right.
 
 ---

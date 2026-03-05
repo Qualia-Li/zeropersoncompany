@@ -96,11 +96,11 @@ def create_pdf_with_cover(output_pdf="Zero Person Company (preview).pdf"):
     # Define chapter order (same structure as GEO whitepaper)
     chapter_files = [
         "00-preface.md",
-        "01-shrinking-company.md",
-        "02-one-to-zero.md",
-        "03-technology-stack.md",
-        "04-zero-person-playbook.md",
-        "05-human-question-future.md",
+        "01-vanishing-workforce.md",
+        "02-intelligence-fallacy.md",
+        "03-anatomy-of-autonomy.md",
+        "04-great-displacement.md",
+        "05-one-to-zero.md",
         "06-references.md",
     ]
 
