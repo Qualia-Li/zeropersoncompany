@@ -113,3 +113,13 @@ The Tao Te Ching knew this 2,500 years ago: *"The Tao never does anything, yet t
 This is the leap. This is the epiphany. This is **One to Zero**.
 
 ---
+
+## Join the Zero Person Club
+
+The conversation doesn't end here. Whether you're a solo founder automating your first workflow, an engineer building agent architectures, or a researcher studying the future of work — we'd love to have you in the community.
+
+**The Zero Person Club** is our online community for builders, thinkers, and operators navigating the one-to-zero transition. Share what you're building, learn from others who are doing the same, and stay ahead of the curve as autonomous companies move from theory to reality.
+
+Join us at **[0pc.club](https://0pc.club)**
+
+---
