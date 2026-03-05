@@ -62,7 +62,7 @@ def create_cover_pdf(output_path):
     c.drawString(60, 130, "Quanlai Li")
     c.setFont("Helvetica", 12)
     c.setFillColorRGB(0.7, 0.8, 0.95)
-    c.drawString(60, 112, "Entrepreneur, CoFounder of ChatSlide.AI")
+    c.drawString(60, 112, "Serial Entrepreneur | Ex-Robinhood, Lyft, Uber | UC Berkeley")
 
     c.setFillColorRGB(1, 1, 1)
     c.setFont("Helvetica-Bold", 14)
