@@ -69,7 +69,7 @@ def create_cover_pdf(output_path):
     c.drawString(60, 82, "Tu Ni")
     c.setFont("Helvetica", 12)
     c.setFillColorRGB(0.7, 0.8, 0.95)
-    c.drawString(60, 64, "Assistant Professor, ETH Zurich | Harvard Scholar")
+    c.drawString(60, 64, "Future Assistant Professor, ETH Zurich | Harvard Scholar")
 
     # Bottom accent line
     c.setStrokeColorRGB(0.2, 0.5, 1.0)
