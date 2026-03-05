@@ -1,5 +1,13 @@
 # Chapter 5: One to Zero — The Epiphany
 
+> *"The Tao never does anything, yet through it all things are done."*
+>
+> **— Lao Tzu**, *Tao Te Ching*, Chapter 37
+
+> *"The impediment to action advances action. What stands in the way becomes the way."*
+>
+> **— Marcus Aurelius**, *Meditations*, Book V (c. 170 AD)
+
 *Peter Thiel told us how to go from Zero to One. This is the next leap.*
 
 ## 5.1 From Zero to One, and Now One to Zero
@@ -23,6 +31,8 @@ Thiel argued that monopolies — companies that create something so unique they 
 | Definite optimism | Definite *architecture* |
 
 The zero-person company doesn't just build a better product — it builds a better *company*. One that scales without the overhead, politics, and limitations of human organizations.
+
+As Thiel wrote: *"Every moment in business happens only once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won't make a search engine. If you are copying these guys, you aren't learning from them"* (*Zero to One*, 2014). The founders who copy today's one-person companies are not learning from them either. The real lesson is to go further — to go from One to Zero.
 
 ## 5.3 The KPMG Experiment: First Contact with the Future
 
@@ -94,7 +104,11 @@ We believe the zero-person company is not a dystopia to be feared but a **design
 
 **Who designs these systems? Whose values do they encode? Who benefits from their output?**
 
+Buckminster Fuller said: *"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete"* (*Critical Path*, 1981). The zero-person company does not fight the old model of employment. It renders it obsolete.
+
 Peter Thiel told us how to go from Zero to One — how to create something new. We are now telling you how to go from One to Zero — how to build something that runs itself.
+
+The Tao Te Ching knew this 2,500 years ago: *"The Tao never does anything, yet through it all things are done."* The zero-person company is the Tao of business — the architecture of non-action through which all action flows.
 
 This is the leap. This is the epiphany. This is **One to Zero**.
 

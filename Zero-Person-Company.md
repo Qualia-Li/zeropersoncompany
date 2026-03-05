@@ -98,6 +98,10 @@ That is what this book is about.
 
 # Chapter 1: The Vanishing Workforce
 
+> *"Doing more and more with less and less until eventually you can do everything with nothing."*
+>
+> **— R. Buckminster Fuller**, *Nine Chains to the Moon* (1938)
+
 ## 1.1 A Brief History of Company Size
 
 For most of the 20th century, bigger meant better. The dominant logic of industrial capitalism was scale: more factories, more workers, more output. General Motors employed approximately **850,000 people** at its peak in 1979, responsible for 45% of all U.S. car sales (MacroTrends, 2025). IBM reached **405,536 employees** worldwide in 1985 (The Chip Letter, 2024). These were not just companies — they were small nations.
@@ -107,6 +111,8 @@ Then something shifted.
 The internet era proved that enormous value could be created with dramatically fewer people. When Facebook acquired **Instagram** in April 2012 for $1 billion, Instagram had just **13 employees** (UK Competition Commission Filing OFT ME/5525/12). **WhatsApp** was bought for $19 billion in February 2014 with a team of **55 employees** — each employee representing $345 million in acquisition value (NBC News, 2014). **Midjourney**, built by David Holz with roughly **40 employees**, generated **$200 million in annual revenue** in 2023 — approximately **$5 million per employee** — with zero external funding (Sacra, 2024; DemandSage, 2025).
 
 The trend line is unmistakable: **the number of employees required to generate a billion dollars in value has been dropping exponentially**.
+
+As Marc Andreessen wrote in *The Wall Street Journal* in 2011: *"Software is eating the world."* He was right — but he underestimated how little of the world software would leave behind.
 
 Today, GM has just **156,000 employees** — an 82% decline from its peak (MacroTrends, 2025). The company that once symbolized the might of American industry is a fraction of its former self, not because it failed, but because technology made scale less dependent on headcount.
 
@@ -151,7 +157,7 @@ At the same time, the freelancer economy has exploded. According to the **U.S. C
 
 The number of U.S. freelancers increased by **90% between 2020 and 2024** (Upwork, 2025). In 2025, more than **70 million Americans** are part of the gig economy — approximately 36% of the total workforce. By 2027, **86.5 million people** will be freelancing in the United States — more than half the country's total labor force (Entrepreneur, 2025).
 
-This isn't a temporary trend. It's a structural shift in how humans relate to work — and AI is the accelerant.
+This isn't a temporary trend. It's a structural shift in how humans relate to work — and AI is the accelerant. As Naval Ravikant put it: *"Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep"* (Twitter, 2018; later compiled in *The Almanack of Naval Ravikant*, 2020).
 
 ![The Evolution from Corporation to Zero-Person Company](assets/images/figure-3-company-evolution.png)
 *Figure 3: The evolution of business organization shows a clear trend — dramatically fewer employees generating dramatically more revenue. Sources: MacroTrends, Sacra, industry analysis.*
@@ -159,6 +165,10 @@ This isn't a temporary trend. It's a structural shift in how humans relate to wo
 ---
 
 # Chapter 2: The Intelligence Fallacy
+
+> *"In the pursuit of learning, every day something is acquired. In the pursuit of the Tao, every day something is dropped. Less and less do you need to force things, until finally you arrive at non-action. When nothing is done, nothing is left undone."*
+>
+> **— Lao Tzu**, *Tao Te Ching*, Chapter 48
 
 *The assumption that businesses require human intelligence to operate is the defining fallacy of the pre-AI era.*
 
@@ -168,7 +178,9 @@ For centuries, the organizational logic of business rested on an unquestioned ax
 
 This was never a law of nature. It was a **constraint of technology**. We needed humans because no other form of intelligence existed that could reason, plan, execute, and adapt.
 
-That constraint has been lifted.
+That constraint has been lifted. Or, as Elon Musk told the AI Safety Summit at Bletchley Park in November 2023: *"There will come a point where no job is needed. You can have a job if you want to have a job — sort of for personal satisfaction — but the AI will be able to do everything."*
+
+Peter Thiel's signature interview question — *"What important truth do very few people agree with you on?"* (*Zero to One*, 2014) — finds its answer here. The uncomfortable truth is that most cognitive labor performed by employees was never uniquely human. It was merely *performed* by humans, because no alternative existed.
 
 The Intelligence Fallacy is the belief that the *cognitive functions* currently performed by employees are inseparable from *human beings*. It confuses the task with the performer. An invoice doesn't care who processes it. A customer query doesn't care who answers it. A deployment pipeline doesn't care who pushes the code.
 
@@ -263,13 +275,19 @@ A real estate agency replaced two receptionists (annual cost $212,894) with an A
 
 These numbers come with caveats. According to Cleanlab's 2025 enterprise survey, **only 5% of enterprise-grade generative AI systems reach production** — 95% fail to deploy successfully (Cleanlab, 2025). Even the best AI agent solutions achieve **goal completion rates below 55%** when working with CRM systems (Superface, 2025).
 
-The Intelligence Fallacy is being disproven — but slowly, unevenly, and with many casualties along the way.
+Yuval Noah Harari posed the question bluntly in *Homo Deus* (2016): *"What will happen to the job market once artificial intelligence outperforms humans in most cognitive tasks?"* The Intelligence Fallacy is being disproven — but slowly, unevenly, and with many casualties along the way.
 
 ---
 
 # Chapter 3: The Anatomy of Autonomy
 
+> *"Thirty spokes share the hub of a wheel; yet it is its center that makes it useful. Shape clay into a vessel; it is the space within that makes it useful. Cut doors and windows for a room; it is the holes which make it useful. Therefore profit comes from what is there; usefulness from what is not there."*
+>
+> **— Lao Tzu**, *Tao Te Ching*, Chapter 11
+
 *A practical guide to constructing a company that operates without employees.*
+
+The Tao Te Ching was written roughly 2,500 years ago, yet its central metaphor — that emptiness is what makes things useful — is the perfect description of the zero-person company. The vessel's value lies not in the clay but in the void it creates. The company's value lies not in the employees it hires but in the architecture it designs. The space *where people used to be* is precisely what makes the new model work.
 
 ## 3.1 The Three Laws of Zero-Person Companies
 
@@ -355,11 +373,15 @@ In a zero-person company, the founder is not a CEO in the traditional sense. As 
 3. **The Investor**: Allocating capital to growth and infrastructure
 4. **The Philosopher**: Setting the values and ethics the system operates by
 
-This is a fundamentally different kind of entrepreneurship — closer to a fund manager or a board chairman than a startup CEO grinding 80 hours a week.
+This is a fundamentally different kind of entrepreneurship — closer to a fund manager or a board chairman than a startup CEO grinding 80 hours a week. As Lao Tzu wrote: *"Governing a great nation is like cooking a small fish — you spoil it with too much poking"* (*Tao Te Ching*, Chapter 60). The zero-person founder governs by design, not by intervention.
 
 ---
 
 # Chapter 4: The Great Displacement
+
+> *"The most important question in twenty-first-century economics may well be what to do with all the superfluous people."*
+>
+> **— Yuval Noah Harari**, *Homo Deus: A Brief History of Tomorrow* (2017)
 
 *What happens to humanity when companies no longer need humans?*
 
@@ -399,6 +421,8 @@ But here's what the doom narrative misses: the same AI that displaces employees 
 
 Every person displaced from a corporate job is a potential solopreneur armed with AI agents that give them the capability of an entire department. McKinsey projects that capturing AI's potential economic value — about **$2.9 trillion in the U.S. by 2030** — depends on human guidance and organizational redesign, not pure replacement (McKinsey, "Agents, Robots, and Us," November 2025; Fortune, November 2025).
 
+John Maynard Keynes predicted in 1930 that by our era, technological progress would allow humanity to work only fifteen hours per week: *"Three-hour shifts or a fifteen-hour week may put off the problem for a great while"* ("Economic Possibilities for Our Grandchildren," 1930). He was wrong about the timeline but right about the trajectory. Elon Musk went further at VivaTech in May 2024: *"Probably none of us will have a job. In a benign scenario... there will be universal high income — not universal basic income — universal high income."*
+
 The real question isn't "will AI take jobs?" — it's **"will people adapt fast enough to become founders instead of employees?"**
 
 ## 4.3 The Economic and Ethical Reckoning
@@ -412,6 +436,8 @@ But this wealth won't be distributed evenly. The zero-person company model creat
 ### The Tax Question
 
 If companies have zero employees, who pays payroll taxes? How do governments fund social safety nets when the tax base shifts from wages to corporate profits?
+
+Karl Marx observed in *Capital* (1867): *"In handicrafts and manufacture, the workman makes use of a tool; in the factory, the machine makes use of him."* In the zero-person company, the machine no longer even needs the workman. Martin Luther King Jr. reminded us that *"No work is insignificant. All labor that uplifts humanity has dignity and importance"* (Memphis, 1968). The challenge of our era is to preserve that dignity when the labor itself becomes optional.
 
 Sam Altman addressed this directly in his 2021 essay **"Moore's Law for Everything"**: he proposed taxing companies above a certain valuation at **2.5% of market value annually**, arguing that AI could generate enough wealth to fund a universal basic income of **$13,500 per year** to every adult in the U.S. (Altman, 2021; CNBC, 2021).
 
@@ -449,6 +475,14 @@ Zero-person companies will dominate **routine digital commerce**. They won't rep
 
 # Chapter 5: One to Zero — The Epiphany
 
+> *"The Tao never does anything, yet through it all things are done."*
+>
+> **— Lao Tzu**, *Tao Te Ching*, Chapter 37
+
+> *"The impediment to action advances action. What stands in the way becomes the way."*
+>
+> **— Marcus Aurelius**, *Meditations*, Book V (c. 170 AD)
+
 *Peter Thiel told us how to go from Zero to One. This is the next leap.*
 
 ## 5.1 From Zero to One, and Now One to Zero
@@ -472,6 +506,8 @@ Thiel argued that monopolies — companies that create something so unique they 
 | Definite optimism | Definite *architecture* |
 
 The zero-person company doesn't just build a better product — it builds a better *company*. One that scales without the overhead, politics, and limitations of human organizations.
+
+As Thiel wrote: *"Every moment in business happens only once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won't make a search engine. If you are copying these guys, you aren't learning from them"* (*Zero to One*, 2014). The founders who copy today's one-person companies are not learning from them either. The real lesson is to go further — to go from One to Zero.
 
 ## 5.3 The KPMG Experiment: First Contact with the Future
 
@@ -543,7 +579,11 @@ We believe the zero-person company is not a dystopia to be feared but a **design
 
 **Who designs these systems? Whose values do they encode? Who benefits from their output?**
 
+Buckminster Fuller said: *"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete"* (*Critical Path*, 1981). The zero-person company does not fight the old model of employment. It renders it obsolete.
+
 Peter Thiel told us how to go from Zero to One — how to create something new. We are now telling you how to go from One to Zero — how to build something that runs itself.
+
+The Tao Te Ching knew this 2,500 years ago: *"The Tao never does anything, yet through it all things are done."* The zero-person company is the Tao of business — the architecture of non-action through which all action flows.
 
 This is the leap. This is the epiphany. This is **One to Zero**.
 
@@ -628,6 +668,22 @@ All statistics are sourced and cited. Where projections are made, the forecastin
 - Cleanlab (2025). "AI Agents in Production 2025." Enterprise survey.
 - Superface (2025). "Agent Reality Gap."
 - Gartner (2025). Agent vendor landscape assessment.
+
+### Books & Classic Works Cited
+- Lao Tzu. *Tao Te Ching* (c. 6th century BC). Chapters 11, 37, 48, 60. Translations by Gia-fu Feng & Jane English; Stephen Mitchell (1988).
+- Marcus Aurelius. *Meditations* (c. 170-180 AD). Book V, Section 20.
+- Marx, K. (1867). *Capital*, Volume I. Chapter 15: "Machinery and Modern Industry."
+- Keynes, J. M. (1930). "Economic Possibilities for Our Grandchildren." Essay.
+- Fuller, R. B. (1938). *Nine Chains to the Moon*. Anchor Press.
+- Fuller, R. B. (1981). *Critical Path*. St. Martin's Press.
+- McLuhan, M. (1964). *Understanding Media: The Extensions of Man*. McGraw-Hill.
+- Thiel, P. (2014). *Zero to One: Notes on Startups, or How to Build the Future*. Crown Business.
+- Harari, Y. N. (2016). *Homo Deus: A Brief History of Tomorrow*. Harper.
+- Harari, Y. N. (2018). *21 Lessons for the 21st Century*. Spiegel & Grau.
+- Ravikant, N. (2018). "How to Get Rich (without getting lucky)." Twitter thread. Compiled in Jorgenson, E. (2020). *The Almanack of Naval Ravikant*.
+- Andreessen, M. (2011). "Why Software Is Eating the World." *The Wall Street Journal*, August 20, 2011.
+- Kelly, K. (2008). "1,000 True Fans." kk.org/thetechnium.
+- King, M. L., Jr. (1968). Speech to AFSCME sanitation workers, Memphis, Tennessee. Collected in *All Labor Has Dignity* (Beacon Press, 2011).
 
 ---
 

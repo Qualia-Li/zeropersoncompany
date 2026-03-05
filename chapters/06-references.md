@@ -78,6 +78,22 @@ All statistics are sourced and cited. Where projections are made, the forecastin
 - Superface (2025). "Agent Reality Gap."
 - Gartner (2025). Agent vendor landscape assessment.
 
+### Books & Classic Works Cited
+- Lao Tzu. *Tao Te Ching* (c. 6th century BC). Chapters 11, 37, 48, 60. Translations by Gia-fu Feng & Jane English; Stephen Mitchell (1988).
+- Marcus Aurelius. *Meditations* (c. 170-180 AD). Book V, Section 20.
+- Marx, K. (1867). *Capital*, Volume I. Chapter 15: "Machinery and Modern Industry."
+- Keynes, J. M. (1930). "Economic Possibilities for Our Grandchildren." Essay.
+- Fuller, R. B. (1938). *Nine Chains to the Moon*. Anchor Press.
+- Fuller, R. B. (1981). *Critical Path*. St. Martin's Press.
+- McLuhan, M. (1964). *Understanding Media: The Extensions of Man*. McGraw-Hill.
+- Thiel, P. (2014). *Zero to One: Notes on Startups, or How to Build the Future*. Crown Business.
+- Harari, Y. N. (2016). *Homo Deus: A Brief History of Tomorrow*. Harper.
+- Harari, Y. N. (2018). *21 Lessons for the 21st Century*. Spiegel & Grau.
+- Ravikant, N. (2018). "How to Get Rich (without getting lucky)." Twitter thread. Compiled in Jorgenson, E. (2020). *The Almanack of Naval Ravikant*.
+- Andreessen, M. (2011). "Why Software Is Eating the World." *The Wall Street Journal*, August 20, 2011.
+- Kelly, K. (2008). "1,000 True Fans." kk.org/thetechnium.
+- King, M. L., Jr. (1968). Speech to AFSCME sanitation workers, Memphis, Tennessee. Collected in *All Labor Has Dignity* (Beacon Press, 2011).
+
 ---
 
 *Quanlai Li and Tu Ni*

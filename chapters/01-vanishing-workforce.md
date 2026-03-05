@@ -1,5 +1,9 @@
 # Chapter 1: The Vanishing Workforce
 
+> *"Doing more and more with less and less until eventually you can do everything with nothing."*
+>
+> **— R. Buckminster Fuller**, *Nine Chains to the Moon* (1938)
+
 ## 1.1 A Brief History of Company Size
 
 For most of the 20th century, bigger meant better. The dominant logic of industrial capitalism was scale: more factories, more workers, more output. General Motors employed approximately **850,000 people** at its peak in 1979, responsible for 45% of all U.S. car sales (MacroTrends, 2025). IBM reached **405,536 employees** worldwide in 1985 (The Chip Letter, 2024). These were not just companies — they were small nations.
@@ -9,6 +13,8 @@ Then something shifted.
 The internet era proved that enormous value could be created with dramatically fewer people. When Facebook acquired **Instagram** in April 2012 for $1 billion, Instagram had just **13 employees** (UK Competition Commission Filing OFT ME/5525/12). **WhatsApp** was bought for $19 billion in February 2014 with a team of **55 employees** — each employee representing $345 million in acquisition value (NBC News, 2014). **Midjourney**, built by David Holz with roughly **40 employees**, generated **$200 million in annual revenue** in 2023 — approximately **$5 million per employee** — with zero external funding (Sacra, 2024; DemandSage, 2025).
 
 The trend line is unmistakable: **the number of employees required to generate a billion dollars in value has been dropping exponentially**.
+
+As Marc Andreessen wrote in *The Wall Street Journal* in 2011: *"Software is eating the world."* He was right — but he underestimated how little of the world software would leave behind.
 
 Today, GM has just **156,000 employees** — an 82% decline from its peak (MacroTrends, 2025). The company that once symbolized the might of American industry is a fraction of its former self, not because it failed, but because technology made scale less dependent on headcount.
 
@@ -53,7 +59,7 @@ At the same time, the freelancer economy has exploded. According to the **U.S. C
 
 The number of U.S. freelancers increased by **90% between 2020 and 2024** (Upwork, 2025). In 2025, more than **70 million Americans** are part of the gig economy — approximately 36% of the total workforce. By 2027, **86.5 million people** will be freelancing in the United States — more than half the country's total labor force (Entrepreneur, 2025).
 
-This isn't a temporary trend. It's a structural shift in how humans relate to work — and AI is the accelerant.
+This isn't a temporary trend. It's a structural shift in how humans relate to work — and AI is the accelerant. As Naval Ravikant put it: *"Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep"* (Twitter, 2018; later compiled in *The Almanack of Naval Ravikant*, 2020).
 
 ![The Evolution from Corporation to Zero-Person Company](assets/images/figure-3-company-evolution.png)
 *Figure 3: The evolution of business organization shows a clear trend — dramatically fewer employees generating dramatically more revenue. Sources: MacroTrends, Sacra, industry analysis.*

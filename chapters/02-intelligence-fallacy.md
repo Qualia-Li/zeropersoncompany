@@ -1,5 +1,9 @@
 # Chapter 2: The Intelligence Fallacy
 
+> *"In the pursuit of learning, every day something is acquired. In the pursuit of the Tao, every day something is dropped. Less and less do you need to force things, until finally you arrive at non-action. When nothing is done, nothing is left undone."*
+>
+> **— Lao Tzu**, *Tao Te Ching*, Chapter 48
+
 *The assumption that businesses require human intelligence to operate is the defining fallacy of the pre-AI era.*
 
 ## 2.1 The Fallacy Defined
@@ -8,7 +12,9 @@ For centuries, the organizational logic of business rested on an unquestioned ax
 
 This was never a law of nature. It was a **constraint of technology**. We needed humans because no other form of intelligence existed that could reason, plan, execute, and adapt.
 
-That constraint has been lifted.
+That constraint has been lifted. Or, as Elon Musk told the AI Safety Summit at Bletchley Park in November 2023: *"There will come a point where no job is needed. You can have a job if you want to have a job — sort of for personal satisfaction — but the AI will be able to do everything."*
+
+Peter Thiel's signature interview question — *"What important truth do very few people agree with you on?"* (*Zero to One*, 2014) — finds its answer here. The uncomfortable truth is that most cognitive labor performed by employees was never uniquely human. It was merely *performed* by humans, because no alternative existed.
 
 The Intelligence Fallacy is the belief that the *cognitive functions* currently performed by employees are inseparable from *human beings*. It confuses the task with the performer. An invoice doesn't care who processes it. A customer query doesn't care who answers it. A deployment pipeline doesn't care who pushes the code.
 
@@ -103,6 +109,6 @@ A real estate agency replaced two receptionists (annual cost $212,894) with an A
 
 These numbers come with caveats. According to Cleanlab's 2025 enterprise survey, **only 5% of enterprise-grade generative AI systems reach production** — 95% fail to deploy successfully (Cleanlab, 2025). Even the best AI agent solutions achieve **goal completion rates below 55%** when working with CRM systems (Superface, 2025).
 
-The Intelligence Fallacy is being disproven — but slowly, unevenly, and with many casualties along the way.
+Yuval Noah Harari posed the question bluntly in *Homo Deus* (2016): *"What will happen to the job market once artificial intelligence outperforms humans in most cognitive tasks?"* The Intelligence Fallacy is being disproven — but slowly, unevenly, and with many casualties along the way.
 
 ---

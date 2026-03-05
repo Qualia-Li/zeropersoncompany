@@ -1,6 +1,12 @@
 # Chapter 3: The Anatomy of Autonomy
 
+> *"Thirty spokes share the hub of a wheel; yet it is its center that makes it useful. Shape clay into a vessel; it is the space within that makes it useful. Cut doors and windows for a room; it is the holes which make it useful. Therefore profit comes from what is there; usefulness from what is not there."*
+>
+> **— Lao Tzu**, *Tao Te Ching*, Chapter 11
+
 *A practical guide to constructing a company that operates without employees.*
+
+The Tao Te Ching was written roughly 2,500 years ago, yet its central metaphor — that emptiness is what makes things useful — is the perfect description of the zero-person company. The vessel's value lies not in the clay but in the void it creates. The company's value lies not in the employees it hires but in the architecture it designs. The space *where people used to be* is precisely what makes the new model work.
 
 ## 3.1 The Three Laws of Zero-Person Companies
 
@@ -86,6 +92,6 @@ In a zero-person company, the founder is not a CEO in the traditional sense. As 
 3. **The Investor**: Allocating capital to growth and infrastructure
 4. **The Philosopher**: Setting the values and ethics the system operates by
 
-This is a fundamentally different kind of entrepreneurship — closer to a fund manager or a board chairman than a startup CEO grinding 80 hours a week.
+This is a fundamentally different kind of entrepreneurship — closer to a fund manager or a board chairman than a startup CEO grinding 80 hours a week. As Lao Tzu wrote: *"Governing a great nation is like cooking a small fish — you spoil it with too much poking"* (*Tao Te Ching*, Chapter 60). The zero-person founder governs by design, not by intervention.
 
 ---

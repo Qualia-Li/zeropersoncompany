@@ -1,5 +1,9 @@
 # Chapter 4: The Great Displacement
 
+> *"The most important question in twenty-first-century economics may well be what to do with all the superfluous people."*
+>
+> **— Yuval Noah Harari**, *Homo Deus: A Brief History of Tomorrow* (2017)
+
 *What happens to humanity when companies no longer need humans?*
 
 ## 4.1 The Iceberg Below the Surface
@@ -38,6 +42,8 @@ But here's what the doom narrative misses: the same AI that displaces employees 
 
 Every person displaced from a corporate job is a potential solopreneur armed with AI agents that give them the capability of an entire department. McKinsey projects that capturing AI's potential economic value — about **$2.9 trillion in the U.S. by 2030** — depends on human guidance and organizational redesign, not pure replacement (McKinsey, "Agents, Robots, and Us," November 2025; Fortune, November 2025).
 
+John Maynard Keynes predicted in 1930 that by our era, technological progress would allow humanity to work only fifteen hours per week: *"Three-hour shifts or a fifteen-hour week may put off the problem for a great while"* ("Economic Possibilities for Our Grandchildren," 1930). He was wrong about the timeline but right about the trajectory. Elon Musk went further at VivaTech in May 2024: *"Probably none of us will have a job. In a benign scenario... there will be universal high income — not universal basic income — universal high income."*
+
 The real question isn't "will AI take jobs?" — it's **"will people adapt fast enough to become founders instead of employees?"**
 
 ## 4.3 The Economic and Ethical Reckoning
@@ -51,6 +57,8 @@ But this wealth won't be distributed evenly. The zero-person company model creat
 ### The Tax Question
 
 If companies have zero employees, who pays payroll taxes? How do governments fund social safety nets when the tax base shifts from wages to corporate profits?
+
+Karl Marx observed in *Capital* (1867): *"In handicrafts and manufacture, the workman makes use of a tool; in the factory, the machine makes use of him."* In the zero-person company, the machine no longer even needs the workman. Martin Luther King Jr. reminded us that *"No work is insignificant. All labor that uplifts humanity has dignity and importance"* (Memphis, 1968). The challenge of our era is to preserve that dignity when the labor itself becomes optional.
 
 Sam Altman addressed this directly in his 2021 essay **"Moore's Law for Everything"**: he proposed taxing companies above a certain valuation at **2.5% of market value annually**, arguing that AI could generate enough wealth to fund a universal basic income of **$13,500 per year** to every adult in the U.S. (Altman, 2021; CNBC, 2021).
 
