@@ -80,7 +80,7 @@ Now here's the part that should unsettle you.
 
 The products built by a single person in Chiang Mai look indistinguishable from the ones built by 300 engineers in San Francisco. The form builder made by a solo founder in a co-working space rivals the one made by 846 employees in a downtown headquarters. The AI photo tool run by one person from a laptop generates more revenue per employee than most Fortune 500 companies.
 
-Some of these founders sit in the posh offices of **San Francisco**, **Hyderabad**, or **Hangzhou** — surrounded by venture capitalists, talent pipelines, and catered lunches. Others work from **Dali**, **Chiang Mai**, **Xi'an**, or **Santiago, Chile** — remote regions where the cost of living is low, the Wi-Fi is good enough, and the only colleague is a large language model.
+Some of these founders sit in the posh offices of **San Francisco**, **Hyderabad**, or **Hangzhou** — surrounded by venture capitalists, talent pipelines, and catered lunches. Others work from **Chiang Mai**, **Xi'an**, **Aachen**, or **Santiago (Chile)** — remote regions where the cost of living is low, the Wi-Fi is good enough, and the only colleague is a large language model.
 
 Yet they ship the same product. They serve the same customers. They collect the same revenue.
 
