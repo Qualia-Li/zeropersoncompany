@@ -5,7 +5,7 @@
 
 *Quanlai Li — Serial entrepreneur and AI engineer. CEO and founder of ChatSlide.AI. Former software engineer at Robinhood, Lyft, and Uber. Author of How to Win GEO. Computer Science from UC Berkeley and Zhejiang University.*
 
-*Tu Ni — Future Assistant Professor of Decision Sciences and Analytics at ETH Zurich, Postdoctoral Research Fellow at Harvard Business School's Digital Data Design Institute (D^3). A data scientist, operations researcher, and scholar whose work focuses on experimentation in operations and the evaluation of AI solutions in enterprises. PhD in Operations Research from the National University of Singapore, M.Eng. from UC Berkeley, B.S. from Zhejiang University. Winner of the INFORMS ENRE Best Publication Award (2025).*
+*Tu Ni — Postdoctoral Research Fellow at Harvard Business School, incoming Assistant Professor at ETH Zurich. A data scientist and operations researcher whose work focuses on experimentation in operations and the evaluation of AI solutions in enterprises. PhD in Operations Research from the National University of Singapore, M.Eng. from UC Berkeley, B.S. from Zhejiang University.*
 
 ---
 
