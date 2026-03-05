@@ -5,7 +5,7 @@ import re
 with open("Zero-Person-Company.md", "r") as f:
     content = f.read()
 
-# Extract preface (everything before Chapter 1)
+# Extract preface (everything before Chapter 1, including Prologue)
 ch1_start = content.index("# Chapter 1:")
 preface = content[:ch1_start].rstrip()
 
