@@ -16,65 +16,19 @@ import io
 
 
 def create_cover_pdf(output_path):
-    """Create a cover page PDF using reportlab"""
+    """Create a cover page PDF from the O'Reilly-style cover image"""
+    from reportlab.lib.utils import ImageReader
+
+    base_dir = Path(__file__).parent
+    cover_image = base_dir / "assets" / "images" / "cover-oreilly.png"
+
     packet = io.BytesIO()
     c = canvas.Canvas(packet, pagesize=A4)
     width, height = A4
 
-    # Background color - dark navy blue
-    c.setFillColorRGB(0.08, 0.08, 0.18)
-    c.rect(0, 0, width, height, fill=1)
-
-    # Accent line at top
-    c.setStrokeColorRGB(0.2, 0.5, 1.0)
-    c.setLineWidth(4)
-    c.line(60, height - 80, width - 60, height - 80)
-
-    # Title
-    c.setFillColorRGB(1, 1, 1)
-    c.setFont("Helvetica-Bold", 42)
-    c.drawString(60, height - 160, "Zero Person")
-    c.drawString(60, height - 210, "Company")
-
-    # Subtitle
-    c.setFillColorRGB(0.6, 0.7, 0.9)
-    c.setFont("Helvetica", 16)
-    c.drawString(60, height - 260, "How AI Agents Are Building the")
-    c.drawString(60, height - 282, "Post-Employment Enterprise")
-
-    # Decorative element - circuit-like pattern
-    c.setStrokeColorRGB(0.15, 0.3, 0.6)
-    c.setLineWidth(0.5)
-    for y_offset in range(0, 200, 20):
-        y = 180 + y_offset
-        c.line(60, y, 60 + (y_offset * 2.5), y)
-        if y_offset % 40 == 0:
-            c.circle(60 + (y_offset * 2.5), y, 3, stroke=1, fill=0)
-
-    # "0" large decorative number
-    c.setFillColorRGB(0.15, 0.2, 0.4)
-    c.setFont("Helvetica-Bold", 300)
-    c.drawString(width - 300, 120, "0")
-
-    # Authors
-    c.setFillColorRGB(1, 1, 1)
-    c.setFont("Helvetica-Bold", 14)
-    c.drawString(60, 130, "Quanlai Li")
-    c.setFont("Helvetica", 12)
-    c.setFillColorRGB(0.7, 0.8, 0.95)
-    c.drawString(60, 112, "Serial Entrepreneur | Ex-Robinhood, Lyft, Uber | UC Berkeley")
-
-    c.setFillColorRGB(1, 1, 1)
-    c.setFont("Helvetica-Bold", 14)
-    c.drawString(60, 82, "Tu Ni")
-    c.setFont("Helvetica", 12)
-    c.setFillColorRGB(0.7, 0.8, 0.95)
-    c.drawString(60, 64, "Harvard Business School Scholar | Incoming Assistant Professor, ETH Zurich")
-
-    # Bottom accent line
-    c.setStrokeColorRGB(0.2, 0.5, 1.0)
-    c.setLineWidth(2)
-    c.line(60, 40, width - 60, 40)
+    # Draw cover image scaled to fill the full A4 page
+    img = ImageReader(str(cover_image))
+    c.drawImage(img, 0, 0, width=width, height=height, preserveAspectRatio=True, anchor='c')
 
     c.save()
     packet.seek(0)
